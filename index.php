@@ -83,3 +83,44 @@
             </div>
         </div>
     </section>
+    <!-- dukung gp -->
+    <section>
+        <div class="news-container">
+            <div class="news-header">
+                Dukung Kampanye Greenpeace
+            </div>
+            <div class="grid-auto-column">
+                <div class="card" style="font-family: Montserrat;">
+                    <img class="card-image " src="images/dukung1.png" alt="Card Image">
+                    <div class="card-content">
+                        <h4 class="card-subtitle">Berdonasi</h4>
+                        <h3 class="card-title">Bebas Polusi Plastik</h3>
+                        <p class="card-description">Dorong pemerintah dan korporasi untuk
+                            menekan penggunaan plastik sekali pakai
+                            dan berhanti mencemari lingkungan. </p>
+                    </div>
+                </div>
+                <div class="card" style="font-family: Montserrat;">
+                    <img class="card-image " src="images/dukung2.png" alt="Card Image">
+                    <div class="card-content">
+                        <h4 class="card-subtitle">Berdonasi</h4>
+                        <h3 class="card-title">Wujudkan Laut Sehat</h3>
+                        <p class="card-description">Dorong pemerintah dan korporasi untuk
+                            menekan penggunaan plastik sekali pakai
+                            dan berhanti mencemari lingkungan. </p>
+                    </div>
+                </div>
+                <div class="card" style="font-family: Montserrat;">
+                    <img class="card-image " src="images/dukung3.png" alt="Card Image">
+                    <div class="card-content">
+                        <h4 class="card-subtitle">Berdonasi</h4>
+                        <h3 class="card-title">Lindungi Hutan</h3>
+                        <p class="card-description">Dorong pemerintah dan korporasi untuk
+                            menekan penggunaan plastik sekali pakai
+                            dan berhanti mencemari lingkungan. </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
