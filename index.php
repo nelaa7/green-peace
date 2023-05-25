@@ -162,3 +162,40 @@
             </div>
         </div>
     </section>
+
+    <section>
+        <div class="news-container">
+            <div class="news-header">Kenali Greenpeace</div>
+            <div class="news-slug">
+                Greenpeace memiliki misi untuk membuat dunia yang lebih hijau dan damai. Cari tahu lebih lanjut terkait organisasi kami dengan link di bawah ini.
+            </div>
+            <div class="grid-auto-column" style="background-color: #D4F1B8;font-family: Inter; padding: 1rem;">
+                <div class="" style="max-width:300px;">
+                    <img src="images/tentang-kami.png" alt="">
+                    <div class="card-title">Tentang Kami
+                    </div>
+                    <div class="news-slug">Greenpeace hadir karena bumi yang rapuh ini perlu suara. Butuh solusi. Butuh perubahan. Butuh aksi. Greenpeace memiliki landasan prinsip dan nilai-nilai dasar yang tercermin dalam setiap aksi kampanye lingkungan kami.</div>
+                </div>
+                <div class="" style="max-width:300px;">
+                    <img src="images/sejarah.png" alt="">
+                    <div class="card-title">Sejarah Greenpeace
+                    </div>
+                    <div class="news-slug">
+                        Di tahun 1971, dengan motivasi menjadikan dunia menjadi hijau dan damai, sekelompok aktivis berlayar dari Vancouver, Cananda, untuk melakukan protes terhadap rencana uji coba bom nuklir Amerika Serikat di pulau Amchitka, pesisir barat Alasaka.
+                        </div>
+                </div>
+                <div class="" style="max-width:300px;">
+                    <img src="images/Kemenangan.png" alt="">
+                    <div class="card-title">Kemenangan
+                    </div>
+                    <div class="news-slug">Di tahun 1971, dengan motivasi menjadikan dunia menjadi hijau dan damai, sekelompok aktivis berlayar dari Vancouver, Cananda, untuk melakukan protes terhadap rencana uji coba bom nuklir Amerika Serikat di pulau Amchitka, pesisir barat Alasaka.</div>
+                </div>
+                <div class="" style="max-width:300px;">
+                    <img src="images/Pendanaan.png" alt="">
+                    <div class="card-title">Pendanaan
+                    </div>
+                    <div class="news-slug">Di tahun 1971, dengan motivasi menjadikan dunia menjadi hijau dan damai, sekelompok aktivis berlayar dari Vancouver, Cananda, untuk melakukan protes terhadap rencana uji coba bom nuklir Amerika Serikat di pulau Amchitka, pesisir barat Alasaka.</div>
+                </div>
+            </div>
+        </div>
+    </section>
