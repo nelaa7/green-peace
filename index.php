@@ -155,7 +155,7 @@
                             bersama.
                         </h6>
                         <div class="news-button" style="width: 100%; border-radius: 0;">
-                            Ciptakan Perubahan
+                            Ciptakan Perubahan]
                         </div>
                     </div>
                 </div>
