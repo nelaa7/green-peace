@@ -1,0 +1,38 @@
+nav{
+    background-color:#074365;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    /* height: 67px; */
+}
+.nav-logo{
+    margin-top: auto;
+}
+.nav-menu-container{
+    display: flex;
+    gap: 50px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: 22px;
+}
+.nav-search-container{
+    position: relative;
+}
+.nav-searcg-img{
+    position: absolute;
+    left: 8%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+}
+.nav-search-input{
+    background-color: white;
+    border: transparent;
+    width: 240px;
+    height: 29px;
+    border-radius: 15px;
+    padding: 0 14% 0 14% ;
+    box-sizing: border-box; 
+}
+.nav-search-input:focus{
+    outline: none;
+}
