@@ -62,3 +62,24 @@
                     <span class="news-date-released">19 April 2023</span>
                 </div>
             </div>
+            <!-- <div class="news-button">
+                Baca Lebih Lanjut
+            </div> -->
+        </div>
+    </section>
+    <!-- aksi -->
+    <section>
+        <div class="news-container">
+            <div class="news-header">
+                Aksi yang kita lakukan
+            </div>
+            <p class="news-slug">Untuk melakukan perubahan kami beraksi secara langsung, dengan bantuan relawan dan
+                donatur seperti kamu kita bisa melakukan banyak kegiatan untuk berkampanye seperti berikut ini. </p>
+            <div class="grid-auto-column">
+                <img class="img-cover" src="images/aksi1.png" alt="">
+                <img class="img-cover" src="images/aksi2.png" alt="">
+                <img class="img-cover" src="images/aksi3.png" alt="">
+                <img class="img-cover" src="images/aksi4.png" alt="">
+            </div>
+        </div>
+    </section>
