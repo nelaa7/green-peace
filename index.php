@@ -124,3 +124,41 @@
             </div>
         </div>
     </section>
+    <section>
+        <div class="news-container">
+            <div class="grid-auto-column">
+                <div class="card" style="font-family: Inter;width: 100%;">
+                    <div class="card-content">
+                        <h1 class="card-title" style="text-align: center;">Kekuatan Masyarakat</h1>
+                        <h6 class="card-description" style="font-weight: 300;">
+                            Ini adalah pintu untukmu. Jika kamu ingin
+                            dunia yang lebih hijau dan adil, kami akan
+                            berdiri berjalan bersamamu. Jika kamu
+                            memiliki ide menuju kesana, kami ingin
+                            belajar darimu. Mari bermimpi bersama, merencanakan bersama, dan beraksi
+                            bersama.
+                        </h6>
+                        <div class="news-button" style="width: 100%; border-radius: 0;">
+                            Ciptakan Perubahan
+                        </div>
+                    </div>
+                </div>
+                <div class="card" style="font-family: Inter;width: 100%">
+                    <div class="card-content">
+                        <h1 class="card-title" style="text-align: center;">Ubah dunia</h1>
+                        <h6 class="card-description" style="font-weight: 300;">
+                            Ini adalah pintu untukmu. Jika kamu ingin 
+                            dunia yang lebih hijau dan adil, kami akan 
+                            berdiri berjalan bersamamu. Jika kamu 
+                            memiliki ide menuju kesana, kami ingin 
+                            belajar darimu. Mari bermimpi bersama, merencanakan bersama, dan beraksi 
+                            bersama.
+                        </h6>
+                        <div class="news-button" style="width: 100%; border-radius: 0;">
+                            Ciptakan Perubahan
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
