@@ -371,3 +371,12 @@ button.btn-aksi-cegah-api {
     border-radius: 4px;
     padding: 10px 0px;
 }
+
+.container-kebijakan-privasi p {
+    margin-bottom: 16px;
+} 
+.text-link{
+    color: #006DFD;
+    cursor: pointer;
+    text-decoration: none;
+}
