@@ -5,7 +5,7 @@
         </a>
     </div>
     <div class='nav-menu-container'>
-        <a href="" class="">Aksi</a>
+        <a href="aksi.php" class="">Aksi</a>
         <a href="" class="">Jelajahi</a>
         <a href="donasi.php" class="">Donasi</a>
         <div class="nav-search-container">

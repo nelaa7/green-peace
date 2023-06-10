@@ -269,3 +269,105 @@ a.hero-items-button {
 .indent-3 {
     text-indent: 3em
 }
+.indent-1 {
+    text-indent: 1em
+}
+
+.px-3{
+    padding: 0px 3em;
+}
+.container-artikel-lebaran div.container-artikel {
+    width: 60%;
+    margin: 50px auto;
+    font-family: poppins;
+}
+
+.container-artikel-lebaran div h6:nth-child(1) {
+    color: #006DFD;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.container-artikel-lebaran div h3 {
+    font-size: 54px;
+    margin-bottom: 10px;
+}
+
+.container-artikel-lebaran div .info-artikel {
+    color: #6F7376;
+    font-weight: 500;
+
+}
+
+hr {
+    margin-bottom: 10px;
+}
+
+.container-artikel-lebaran div p {
+    margin-bottom: 16px;
+    font-family: serif;
+    font-size: 20px;
+}
+
+.artikel-lebaran-badge {
+    color: #006DFD;
+    font-size: 16px;
+    border: 1px solid #006DFD;
+    background-color: transparent;
+    padding: 10px;
+    width: fit-content;
+    border-radius: 4px;
+    margin-bottom: 100px;
+}
+
+.hero-aksi {
+    font-family: poppins;
+}
+
+.hero-aksi h1 {
+    margin-bottom: 16px;
+    font-size: 40px;
+}
+
+.hero-aksi h6 {
+    width: 50%;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+.hero-aksi p {
+    margin-bottom: 16px;
+}
+
+.hero-aksi-cegah-api {
+    background-image: url('../images/hero-aksi-cegah-api.png');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    margin-bottom: 150px;
+}
+
+.news-container .container-aksi-cegah-api h6 {
+    color: #006DFD;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.news-container .container-aksi-cegah-api h1 {
+    font-family: inherit;
+    font-size: 40px;
+}
+
+.news-container .container-aksi-cegah-api p {
+    margin-bottom: 16px;
+}
+
+button.btn-aksi-cegah-api {
+    width: 100%;
+    border: 2px solid #074365;
+    color: #074365;
+    background-color: transparent;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 10px 0px;
+}
