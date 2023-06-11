@@ -35,18 +35,20 @@
     <section>
         <div class="news-container">
             <div class="news-header">Artikel Terbaru</div>
-            <div class="news-item">
-                <div>
-                    <img src="images/news1.png" style="width: 100%; height: 100%;object-fit: cover;" alt="">
+            <a href="artikel-lebaran.php">
+                <div class="news-item">
+                    <div>
+                        <img src="images/news1.png" style="width: 100%; height: 100%;object-fit: cover;" alt="">
+                    </div>
+                    <div>
+                        <div class="news-tag"><a href="">Cerita #iklim</a></div>
+                        <div class="news-tittle"><a href="">Lebaran di Desa yang Tenggelam</a></div>
+                        <div class="news-slug">Merayakan Idulfitri di desa yang terdampak krisis iklim.</div>
+                        <span class="news-author">Greenpeace Indonesia</span>
+                        <span class="news-date-released">23 April 2023</span>
+                    </div>
                 </div>
-                <div>
-                    <div class="news-tag"><a href="">Cerita #iklim</a></div>
-                    <div class="news-tittle"><a href="">Lebaran di Desa yang Tenggelam</a></div>
-                    <div class="news-slug">Merayakan Idulfitri di desa yang terdampak krisis iklim.</div>
-                    <span class="news-author">Greenpeace Indonesia</span>
-                    <span class="news-date-released">23 April 2023</span>
-                </div>
-            </div>
+            </a>
             <div class="news-item">
                 <div>
                     <img src="images/news2.png" style="width: 100%; height: 100%;object-fit: cover;" alt="">
@@ -62,6 +64,7 @@
                     <span class="news-date-released">19 April 2023</span>
                 </div>
             </div>
+
             <!-- <div class="news-button">
                 Baca Lebih Lanjut
             </div> -->
@@ -77,7 +80,9 @@
                 donatur seperti kamu kita bisa melakukan banyak kegiatan untuk berkampanye seperti berikut ini. </p>
             <div class="grid-auto-column">
                 <img class="img-cover" src="images/aksi1.png" alt="">
-                <img class="img-cover" src="images/aksi2.png" alt="">
+                <a href="aksi-cegah-api.php">
+                    <img class="img-cover" src="images/aksi2.png" alt="">
+                </a>
                 <img class="img-cover" src="images/aksi3.png" alt="">
                 <img class="img-cover" src="images/aksi4.png" alt="">
             </div>
@@ -90,16 +95,18 @@
                 Dukung Kampanye Greenpeace
             </div>
             <div class="grid-auto-column">
-                <div class="card" style="font-family: Montserrat;">
-                    <img class="card-image " src="images/dukung1.png" alt="Card Image">
-                    <div class="card-content">
-                        <h4 class="card-subtitle">Berdonasi</h4>
-                        <h3 class="card-title">Bebas Polusi Plastik</h3>
-                        <p class="card-description">Dorong pemerintah dan korporasi untuk
-                            menekan penggunaan plastik sekali pakai
-                            dan berhanti mencemari lingkungan. </p>
+                <a href="kampanye.php">
+                    <div class="card" style="font-family: Montserrat;">
+                        <img class="card-image " src="images/dukung1.png" alt="Card Image">
+                        <div class="card-content">
+                            <h4 class="card-subtitle">Berdonasi</h4>
+                            <h3 class="card-title">Bebas Polusi Plastik</h3>
+                            <p class="card-description">Dorong pemerintah dan korporasi untuk
+                                menekan penggunaan plastik sekali pakai
+                                dan berhanti mencemari lingkungan. </p>
+                        </div>
                     </div>
-                </div>
+                </a>
                 <div class="card" style="font-family: Montserrat;">
                     <img class="card-image " src="images/dukung2.png" alt="Card Image">
                     <div class="card-content">
@@ -147,15 +154,15 @@
                     <div class="card-content">
                         <h1 class="card-title" style="text-align: center;">Ubah dunia</h1>
                         <h6 class="card-description" style="font-weight: 300;">
-                            Ini adalah pintu untukmu. Jika kamu ingin 
-                            dunia yang lebih hijau dan adil, kami akan 
-                            berdiri berjalan bersamamu. Jika kamu 
-                            memiliki ide menuju kesana, kami ingin 
-                            belajar darimu. Mari bermimpi bersama, merencanakan bersama, dan beraksi 
+                            Ini adalah pintu untukmu. Jika kamu ingin
+                            dunia yang lebih hijau dan adil, kami akan
+                            berdiri berjalan bersamamu. Jika kamu
+                            memiliki ide menuju kesana, kami ingin
+                            belajar darimu. Mari bermimpi bersama, merencanakan bersama, dan beraksi
                             bersama.
                         </h6>
                         <div class="news-button" style="width: 100%; border-radius: 0;">
-                            Ciptakan Perubahan]
+                            Ciptakan Perubahan
                         </div>
                     </div>
                 </div>
@@ -166,36 +173,52 @@
         <div class="news-container">
             <div class="news-header">Kenali Greenpeace</div>
             <div class="news-slug">
-                Greenpeace memiliki misi untuk membuat dunia yang lebih hijau dan damai. Cari tahu lebih lanjut terkait organisasi kami dengan link di bawah ini.
+                Greenpeace memiliki misi untuk membuat dunia yang lebih hijau dan damai. Cari tahu lebih lanjut terkait
+                organisasi kami dengan link di bawah ini.
             </div>
             <div class="grid-auto-column" style="background-color: #D4F1B8;font-family: Inter; padding: 1rem;">
                 <div class="" style="max-width:300px;">
                     <img src="images/tentang-kami.png" alt="">
                     <div class="card-title">Tentang Kami
                     </div>
-                    <div class="news-slug">Greenpeace hadir karena bumi yang rapuh ini perlu suara. Butuh solusi. Butuh perubahan. Butuh aksi. Greenpeace memiliki landasan prinsip dan nilai-nilai dasar yang tercermin dalam setiap aksi kampanye lingkungan kami.</div>
+                    <div class="news-slug">Greenpeace hadir karena bumi yang rapuh ini perlu suara. Butuh solusi. Butuh
+                        perubahan. Butuh aksi. Greenpeace memiliki landasan prinsip dan nilai-nilai dasar yang tercermin
+                        dalam setiap aksi kampanye lingkungan kami.</div>
                 </div>
                 <div class="" style="max-width:300px;">
                     <img src="images/sejarah.png" alt="">
                     <div class="card-title">Sejarah Greenpeace
                     </div>
                     <div class="news-slug">
-                        Di tahun 1971, dengan motivasi menjadikan dunia menjadi hijau dan damai, sekelompok aktivis berlayar dari Vancouver, Cananda, untuk melakukan protes terhadap rencana uji coba bom nuklir Amerika Serikat di pulau Amchitka, pesisir barat Alasaka.
-                        </div>
+                        Di tahun 1971, dengan motivasi menjadikan dunia menjadi hijau dan damai, sekelompok aktivis
+                        berlayar dari Vancouver, Cananda, untuk melakukan protes terhadap rencana uji coba bom nuklir
+                        Amerika Serikat di pulau Amchitka, pesisir barat Alasaka.
+                    </div>
                 </div>
                 <div class="" style="max-width:300px;">
                     <img src="images/Kemenangan.png" alt="">
                     <div class="card-title">Kemenangan
                     </div>
-                    <div class="news-slug">Di tahun 1971, dengan motivasi menjadikan dunia menjadi hijau dan damai, sekelompok aktivis berlayar dari Vancouver, Cananda, untuk melakukan protes terhadap rencana uji coba bom nuklir Amerika Serikat di pulau Amchitka, pesisir barat Alasaka.</div>
+                    <div class="news-slug">Di tahun 1971, dengan motivasi menjadikan dunia menjadi hijau dan damai,
+                        sekelompok aktivis berlayar dari Vancouver, Cananda, untuk melakukan protes terhadap rencana uji
+                        coba bom nuklir Amerika Serikat di pulau Amchitka, pesisir barat Alasaka.</div>
                 </div>
                 <div class="" style="max-width:300px;">
                     <img src="images/Pendanaan.png" alt="">
                     <div class="card-title">Pendanaan
                     </div>
-                    <div class="news-slug">Di tahun 1971, dengan motivasi menjadikan dunia menjadi hijau dan damai, sekelompok aktivis berlayar dari Vancouver, Cananda, untuk melakukan protes terhadap rencana uji coba bom nuklir Amerika Serikat di pulau Amchitka, pesisir barat Alasaka.</div>
+                    <div class="news-slug">Di tahun 1971, dengan motivasi menjadikan dunia menjadi hijau dan damai,
+                        sekelompok aktivis berlayar dari Vancouver, Cananda, untuk melakukan protes terhadap rencana uji
+                        coba bom nuklir Amerika Serikat di pulau Amchitka, pesisir barat Alasaka.</div>
                 </div>
             </div>
+        </div>
+    </section>
+    <section>
+        <div class="news-container" style="font-family: Inter;">
+            <div class="news-header">Bersama kita bisa membuat perubahan.</div>
+            <div class="news-header" style="font-size: 20px;color:#636363;">Bergabung sekarang untuk mendapatkan
+                informasi terbaru seputar kampanye lingkungan.</div>
         </div>
     </section>
     <section>
@@ -203,27 +226,37 @@
             <div class="news-container" style="padding-bottom: 40px; margin-bottom: 0px;">
                 <div class="grid-auto-column" style="padding-top: 30px;">
                     <div>
-                        <div >Email</div>
-                        <input class="nav-search-input" style="border-radius: 0;margin:10px 0px 10px 0px;padding: 0px 10px 0px 10px;" type="email" name="" id="">
+                        <div>Email</div>
+                        <input class="nav-search-input"
+                            style="border-radius: 0;margin:10px 0px 10px 0px;padding: 0px 10px 0px 10px;" type="email"
+                            name="" id="">
                     </div>
                     <div>
-                        <div >Nama Depan</div>
-                        <input class="nav-search-input" style="border-radius: 0;margin:10px 0px 10px 0px;padding: 0px 10px 0px 10px;" type="nama_depan" name="" id="">
+                        <div>Nama Depan</div>
+                        <input class="nav-search-input"
+                            style="border-radius: 0;margin:10px 0px 10px 0px;padding: 0px 10px 0px 10px;"
+                            type="nama_depan" name="" id="">
                     </div>
                     <div>
-                        <div >Nama Belakang</div>
-                        <input class="nav-search-input" style="border-radius: 0;margin:10px 0px 10px 0px;padding: 0px 10px 0px 10px;" type="nama_belakang" name="" id="">
+                        <div>Nama Belakang</div>
+                        <input class="nav-search-input"
+                            style="border-radius: 0;margin:10px 0px 10px 0px;padding: 0px 10px 0px 10px;"
+                            type="nama_belakang" name="" id="">
                     </div>
-                   
+
                 </div>
                 <div class="news-slug">
-                    Greenpeace Southeast Asia memerlukan informasi kontak yang Anda berikan kepada kami untuk menghubungi Anda tentang produk dan layanan kami. Anda dapat berhenti berlangganan dari komunikasi ini kapan pun. Untuk informasi tentang cara berhenti berlangganan,serta praktik privasi dan komitmen kami untuk melindungi privasi Anda, tinjau Kebijakan Privasi kami.
+                    Greenpeace Southeast Asia memerlukan informasi kontak yang Anda berikan kepada kami untuk
+                    menghubungi Anda tentang produk dan layanan kami. Anda dapat berhenti berlangganan dari komunikasi
+                    ini kapan pun. Untuk informasi tentang cara berhenti berlangganan,serta praktik privasi dan komitmen
+                    kami untuk melindungi privasi Anda, tinjau Kebijakan Privasi kami.
                 </div>
                 <div class="news-button" style="font-weight: bold;">BERGABUNG SEKARANG</div>
             </div>
         </div>
     </section>
     <?php include 'footer.php'; ?>
-    </html>
 
-    
+</body>
+
+</html>
