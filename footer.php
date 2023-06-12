@@ -4,20 +4,20 @@
         <hr style="">
         <div class="grid-auto-column" style="margin-top: 1em;">
             <ul>
-                <li>Tentang Kami</li>
-                <li>Kontak</li>
-                <li>Bekerja di Greenpeace</li>
-                <li>Pers</li>
-                <li>Supporter Care</li>
-                <li>Peta Situs</li>
+                <li><a href='tentang-kami.php'>Tentang Kami</a></li>
+                <li><a href='kontak.php'>Kontak</a></li>
+                <li><a href='job.php'>Bekerja di Greenpeace</a></li>
+                <li><a href='pers.php'>Pers</a></li>
+                <li><a href='supporter-care.php'>Supporter Care</a></li>
+                <li><a href='peta-situs.php'>Peta Situs</a></li>
             </ul>
             <ul>
-                <li>Kebijakan Privasi</li>
-                <li>Hak Cipta</li>
-                <li>Ketentuan</li>
-                <li>Kebijakan Komunitas</li>
-                <li>FAQ</li>
-                <li>Arsip</li>
+                <li><a href='kebijakan-privasi.php'>Kebijakan Privasi</a></li>
+                <li><a href='hak-cipta.php'>Hak Cipta</a></li>
+                <li><a href='ketentuan.php'>Ketentuan</a></li>
+                <li><a href='kebijakan-komunitas.php'>Kebijakan Komunitas</a></li>
+                <li><a href='faq.php'>FAQ</a></li>
+                <li>Arsip</a></li>
             </ul>
             <div>
                 <div>Follow Us</div>
