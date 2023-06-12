@@ -66,7 +66,7 @@
             <div class="items-pers">
                 <h3>Arsip Foto Video</h3>
                 <p>
-                    Jika anda ingin menggunakan material foto atau
+                Jika anda ingin menggunakan material foto atau
                     video kami di media.greenpeace.org silahkan
                     hubungi Jurnasyanto Sukarno, Editor Foto
                     Greenpeace Indonesia di

@@ -1,3 +1,4 @@
+<link href="./css/footer.css" rel="stylesheet" />
 <footer>
     <div class="container-footer">
         <p style="margin-left: 3%;">Indonesia</p>
