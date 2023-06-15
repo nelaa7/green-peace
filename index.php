@@ -11,6 +11,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Montserrat:wght@400;700&family=Poppins:wght@400;700&display=swap"
         rel="stylesheet">
+        
 </head>
 
 <body>
@@ -42,7 +43,7 @@
                     </div>
                     <div>
                         <div class="news-tag"><a href="">Cerita #iklim</a></div>
-                        <div class="news-tittle"><a href="">Lebaran di Desa yang Tenggelam</a></div>
+                        <div class="news-tittle"><a href="artikel-lebaran.php">Lebaran di Desa yang Tenggelam</a></div>
                         <div class="news-slug">Merayakan Idulfitri di desa yang terdampak krisis iklim.</div>
                         <span class="news-author">Greenpeace Indonesia</span>
                         <span class="news-date-released">23 April 2023</span>
@@ -179,7 +180,7 @@
             <div class="grid-auto-column" style="background-color: #D4F1B8;font-family: Inter; padding: 1rem;">
                 <div class="" style="max-width:300px;">
                     <img src="images/tentang-kami.png" alt="">
-                    <div class="card-title">Tentang Kami
+                    <div class="card-title"><a href="tentang-kami.php">Tentang Kami</a>
                     </div>
                     <div class="news-slug">Greenpeace hadir karena bumi yang rapuh ini perlu suara. Butuh solusi. Butuh
                         perubahan. Butuh aksi. Greenpeace memiliki landasan prinsip dan nilai-nilai dasar yang tercermin
@@ -256,6 +257,7 @@
         </div>
     </section>
     <?php include 'footer.php'; ?>
+    
 
 </body>
 
