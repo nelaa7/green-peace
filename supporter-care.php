@@ -33,6 +33,10 @@
 <body>
     <?php include 'navbar.php'; ?>
     <!-- hero section -->
+    <div id="loading">
+    <h1>Loading...</h1>
+  </div>
+  <script src="script.js"></script>
 
     <div class="f-inter"
         style="background-image: url(images/supporter-care.png);background-repeat: no-repeat;padding: 130px 130px;background-size: 100%;font-size: 20px;">

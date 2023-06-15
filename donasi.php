@@ -19,6 +19,11 @@
 
 <body>
     <?php include 'navbar.php'; ?>
+    <div id="loading">
+    <h1>Loading...</h1>
+  </div>
+  <script src="script.js"></script>
+  
     <div class="donasi-hero">
         <div class="f-inter">
             <h1 class="f-montserrat">Jaga laut kita.Berdonasilah sekarang.</h1>

@@ -17,7 +17,11 @@
 <body>
     <?php include 'navbar.php'; ?>
     <!-- hero section -->
-
+    <div id="loading">
+    <h1>Loading...</h1>
+  </div>
+  <script src="script.js"></script>
+  
     <div class="f-inter container-kebijakan-privasi"
         style="background-image: url(images/hak-cipta.png);background-repeat: no-repeat;padding: 130px 130px;background-size: 100% 1200px;font-size: 20px;">
         <h6 style="color: #006DFD;">#TentangKami</h6>

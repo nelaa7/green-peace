@@ -16,6 +16,11 @@
 
 <body class="f-inter">
     <?php include 'navbar.php'; ?>
+    <div id="loading">
+    <h1>Loading...</h1>
+  </div>
+  <script src="script.js"></script>
+
     <section>
         <div
             style="background-image: url(images/hutan.png);height:1000px;background-size: 100%;padding: 100px 50px;box-sizing: border-box;">

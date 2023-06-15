@@ -28,6 +28,11 @@
 
 <body class="f-inter">
     <?php include 'navbar.php'; ?>
+    <div id="loading">
+    <h1>Loading...</h1>
+  </div>
+  <script src="script.js"></script>
+
     <section>
         <div
             style="background-image: url(images/energi-terbarukan.png);height:fit-content;background-size: 100%;background-repeat: no-repeat;padding: 100px 50px;box-sizing: border-box;">

@@ -14,6 +14,11 @@
 
 <body>
     <?php include 'navbar.php'; ?>
+    <div id="loading">
+    <h1>Loading...</h1>
+  </div>
+  <script src="script.js"></script>
+  
     <div class="hero-aksi-cegah-api">
     </div>
     <div class="news-container f-inter">

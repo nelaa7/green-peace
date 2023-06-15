@@ -11,12 +11,31 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Montserrat:wght@400;700&family=Poppins:wght@400;700&display=swap"
         rel="stylesheet">
-        
+
 </head>
 
 <body>
     <?php include 'navbar.php'; ?>
     <!-- hero section -->
+    <div id="loading">
+    <h1>Loading...</h1>
+  </div>
+  <script src="script.js"></script>
+
+    <script type='text/javascript'>
+        $(document).ready(function() {$(&#39;img#closed&#39;).click(function(){$(&#39;#bl_banner&#39;).hide(90);});});
+        </script>
+        <div id='fixedban' style='width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:999;-webkit-transform:translateZ(0);'>
+        <div>
+            <a id='close-fixedban' onclick='document.getElementById(&apos;fixedban&apos;).style.display = &apos;none&apos;;' style='cursor:pointer;'>
+            <img alt='close' src='http://1.bp.blogspot.com/-_A83iDM6JYc/VhtxROLILrI/AAAAAAAADK4/aM4ikIA6aqI/s1600/btn_close.gif' style='vertical-align:middle;' title='close button'/></a>
+        </div>
+        <div style='text-align:center;display:block;max-width:800px;height:auto;overflow:hidden;margin:auto'>
+        <a href='donasi.php' title='Pelajari Selengkapnya'>
+            <img alt='Banner iklan disini' src='images/popup.png' style='max-width:100%;height:auto;vertical-align:middle;'/></a>
+        </div>
+        </div>
+
     <section>
         <div class="hero-container">
             <div class="hero-items-container">
@@ -252,7 +271,7 @@
                     ini kapan pun. Untuk informasi tentang cara berhenti berlangganan,serta praktik privasi dan komitmen
                     kami untuk melindungi privasi Anda, tinjau Kebijakan Privasi kami.
                 </div>
-                <div class="news-button" style="font-weight: bold;">BERGABUNG SEKARANG</div>
+                <div type="submit" class="news-button" style="font-weight: bold;" >BERGABUNG SEKARANG</div>
             </div>
         </div>
     </section>

@@ -23,18 +23,26 @@
             <div>
                 <div>Follow Us</div>
                 <div class="" style="display: flex; gap: 30px;margin-top: 1rem;">
+                <a href="https://www.facebook.com/GreenpeaceIndonesia/">
                     <div>
                         <img src="images/facebook.png" alt="">
                     </div>
+                </a>
+                <a href="https://twitter.com/greenpeaceid">
                     <div>
                         <img src="images/twitter.png" alt="">
                     </div>
+                </a>
+                <a href="https://www.youtube.com/greenpeaceindonesia">
                     <div>
                         <img src="images/youtube.png" alt="">
                     </div>
+                </a>
+                <a href="https://api.whatsapp.com/send/?phone=628111870099&text=Hai+Greenpeace+Indonesia%21+Saya+ingin+terhubung+dengan+kalian%2C+salam+hijau+dan+damai%21+%EF%BF%BD&type=phone_number&app_absent=0">
                     <div>
                         <img src="images/whatsapp.png" alt="">
                     </div>
+                </a>
                 </div>
             </div>
         </div>

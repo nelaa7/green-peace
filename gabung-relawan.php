@@ -14,6 +14,11 @@
 
 <body>
     <?php include 'navbar.php'; ?>
+    <div id="loading">
+    <h1>Loading...</h1>
+  </div>
+  <script src="script.js"></script>
+
     <div class="container-artikel-lebaran"
         style="background-image: url(images/gabung-relawan.png);background-repeat:no-repeat;margin-top:0px;background-size: 100% 1000px;">
         <div class="container-artikel" style="padding-top:50px;margin-top:0px;color: white">

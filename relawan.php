@@ -16,6 +16,11 @@
 
 <body class="f-inter">
     <?php include 'navbar.php'; ?>
+    <div id="loading">
+    <h1>Loading...</h1>
+  </div>
+  <script src="script.js"></script>
+  
     <section>
         <div
             style="background-image: url(images/relawan.png);height:800px;background-size:cover;padding: 100px 50px;box-sizing: border-box;display:grid;align-content:end;justify-content: end;grid-template-columns: 50%;">

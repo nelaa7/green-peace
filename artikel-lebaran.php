@@ -14,6 +14,11 @@
 
 <body>
     <?php include 'navbar.php'; ?>
+    <div id="loading">
+    <h1>Loading...</h1>
+  </div>
+  <script src="script.js"></script>
+  
     <div class="container-artikel-lebaran">
         <div class="container-artikel">
             <h6>Cerita</h6>

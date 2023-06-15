@@ -14,6 +14,11 @@
 
 <body>
     <?php include 'navbar.php'; ?>
+    <div id="loading">
+    <h1>Loading...</h1>
+  </div>
+  <script src="script.js"></script>
+
     <div class="container-artikel-lebaran"style="background-image: url(images/hero-kampanye.png);background-repeat:no-repeat;margin-top:0px">
         <div class="container-artikel"style="padding-top:50px;margin-top:0px" >
             <h6>50 Tahun Greenpeace

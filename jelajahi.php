@@ -21,6 +21,11 @@
 <body class="f-inter">
     <?php include 'navbar.php'; ?>
     <!-- hero section -->
+    <div id="loading">
+    <h1>Loading...</h1>
+  </div>
+  <script src="script.js"></script>
+
     <section>
         <div
             style="background-image: url(images/jelajahi1.png);height: 400px;background-size: 100% 400px;display: flex;">
