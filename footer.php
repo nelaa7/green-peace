@@ -5,7 +5,7 @@
         <hr style="">
         <div class="grid-auto-column" style="margin-top: 1em;">
             <ul>
-                <li>Tentang Kami</li>
+                <li><a href="tentang-kami.php">Tentang Kami</li>
                 <li>Kontak</li>
                 <li>Bekerja di Greenpeace</li>
                 <li>Pers</li>
